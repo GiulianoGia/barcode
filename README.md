@@ -1,5 +1,10 @@
 # barcode
 
+## How to use 
+```
+Open the Excel -> copy the GTIN Code and paste it to the searchbar at the website. 
+```
+
 ## Project setup
 ```
 npm install
